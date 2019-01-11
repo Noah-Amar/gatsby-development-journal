@@ -1,8 +1,9 @@
 ---
-title: New Beginnings
-date: '2015-05-28T22:40:32.169Z'
+title: Day 3
+date: '2019-01-09T22:40:32.169Z'
 ---
 
+Navigation day
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
