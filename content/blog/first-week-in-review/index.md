@@ -49,7 +49,5 @@ To build the navigation bar, I took the image that AJ designed on our mock-up pa
 ![Demo](demo.png)
 ![Navigation](navigation.png)
 
-As a part of your journal entry, write ¼ to ½ a page reflecting on your experiences forming a team. What did you do to help the team solidify as a group? What did you do that you now realize caused friction in this process?
-
 #Forming as a Team
 I believe my team has formed together particularly well. All of us are open enough to speak up with our own ideas, but also willing to defer in favor of the the collective group sentiment if it is leaning in another direction. As a team, it helps to have people that are self-aware and willing to go with the flow in the interest of better collaboration. In the beginning stages when we were planning and I was just getting to know my teammates, I wasn't as in tune with their personalities, so while I initially wanted the team dynamic to look like previous teams I had worked on, I realized that this would only cause friction and that I should focus on creating a dynamic that would better align with the people I was working with. Upon realizing the general group personality, I have worked towards trying to make sure everyone's input is heard while also encouraging them to not become too laissez-faire in going along with the group so that we don't lose out on valuable input.
