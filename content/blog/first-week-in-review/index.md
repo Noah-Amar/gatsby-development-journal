@@ -38,8 +38,12 @@ This week I helped to create the technical design document, plan out the workflo
 
 ##Back End
 
-+ Ticket
-    + Trello
++ Ticket 7
+    + Trello: GET endpoint for /guests
+    + Github
+
++ Ticket 8
+    + Trello: DELETE endpoint for /users/:id
     + Github
 
 #Detailed Analysis
