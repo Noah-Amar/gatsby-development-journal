@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "my-gatsby-project",
+  "name": "gatsby-development-journal",
   "builds": [
     {
       "src": "package.json",
