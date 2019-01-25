@@ -10,6 +10,7 @@ date: '2019-01-25T22:12:03.284Z'
 
 + front end: https://www.vbeloved.com/
 + back end: https://vbeloved.now.sh/users
++ whiteboarding: https://youtu.be/M3SkyqA4OaE
 
 This week I added significant UI to the landing page, involving creating the landing page, re-structuring the layout of the pricing and designs pages to fit within the confines of the landing page, adding an automatic scrolldown feature that features each page individually, and altering the look of the navigation bar to better flow with the new design. I also pair-programmed with my new teammate Hargobind to build out functionality for a new public-facing RSVP page with which guests of the wedding party can interact with.
 
