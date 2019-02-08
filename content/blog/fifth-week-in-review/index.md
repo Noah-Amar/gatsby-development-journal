@@ -12,7 +12,7 @@ date: '2019-02-08T22:12:03.284Z'
 + back end: https://vbeloved.now.sh/users
 + tech stack: MySQL, Express, React, Node, AWS, Zeit, Netlify
 + app description: Beloved is an application that solves wedding planning by offering personalized invitations and wedding websites, rsvp management, registry management, and more.
-+ whiteboarding: 
++ whiteboarding: https://youtu.be/nAiOIcNFADU
 
 This week I focused on rendering dynamic data to the Public Invitation page, building a CSV Example Modal for the dashboard, redesigning the Home landing page, adding styles across the application, creating share links that dynamically access the guest rsvp page based on weddingID, and working with my team to build a responsive website and deliver a more professional product.
 
