@@ -21,8 +21,8 @@ This week I focused on the Public RSVP page, testing different potential templat
     + [Github](https://github.com/Lambda-School-Labs/labs9-wedding-site/pull/93)
 
 + Ticket 2
-    + Trello: 
-    + 
+    + Trello: Public Invite
+    + [Github](https://github.com/Lambda-School-Labs/labs9-wedding-site/pull/99)
 
 + Ticket 3
     + Trello:
